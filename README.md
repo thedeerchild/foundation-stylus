@@ -7,7 +7,7 @@ You may also want to checkout:
 # Welcome to [Foundation](http://foundation.zurb.com)
 =====================
 
-[![Build Status](https://travis-ci.org/zurb/foundation.svg)](https://travis-ci.org/zurb/foundation)
+[![Build Status](https://travis-ci.org/2fd/foundation-stylus.svg)](https://travis-ci.org/2fd/foundation-stylus)
 
 
 Foundation is the most advanced responsive front-end framework in the world. You can quickly prototype and build sites or apps that work on any kind of device with Foundation, which includes layout constructs (like a fully responsive grid), elements and best practices.
